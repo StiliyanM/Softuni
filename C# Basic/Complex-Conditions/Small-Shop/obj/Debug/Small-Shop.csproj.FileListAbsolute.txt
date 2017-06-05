@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Complex-Conditions\Small-Shop\bin\Debug\Small-Shop.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Complex-Conditions\Small-Shop\bin\Debug\Small-Shop.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Complex-Conditions\Small-Shop\bin\Debug\Small-Shop.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Complex-Conditions\Small-Shop\obj\Debug\Small-Shop.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Complex-Conditions\Small-Shop\obj\Debug\Small-Shop.pdb

@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\Logistics\bin\Debug\Logistics.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\Logistics\bin\Debug\Logistics.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\Logistics\bin\Debug\Logistics.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\Logistics\obj\Debug\Logistics.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\Logistics\obj\Debug\Logistics.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\Logistics\obj\Debug\Logistics.pdb

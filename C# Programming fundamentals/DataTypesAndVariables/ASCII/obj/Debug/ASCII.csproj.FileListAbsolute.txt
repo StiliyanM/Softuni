@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\ASCII\bin\Debug\ASCII.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\ASCII\bin\Debug\ASCII.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\ASCII\bin\Debug\ASCII.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\ASCII\obj\Debug\ASCII.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\ASCII\obj\Debug\ASCII.pdb

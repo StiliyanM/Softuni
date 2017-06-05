@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Calculations\1000-Days-After-Death\bin\Debug\1000-Days-After-Death.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Calculations\1000-Days-After-Death\bin\Debug\1000-Days-After-Death.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Calculations\1000-Days-After-Death\bin\Debug\1000-Days-After-Death.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Calculations\1000-Days-After-Death\obj\Debug\1000-Days-After-Birth.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Calculations\1000-Days-After-Death\obj\Debug\1000-Days-After-Death.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Calculations\1000-Days-After-Death\obj\Debug\1000-Days-After-Death.pdb

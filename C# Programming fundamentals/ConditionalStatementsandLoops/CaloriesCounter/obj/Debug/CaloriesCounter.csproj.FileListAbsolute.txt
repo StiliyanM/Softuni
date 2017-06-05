@@ -1,0 +1,6 @@
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\CaloriesCounter\bin\Debug\CaloriesCounter.exe.config
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\CaloriesCounter\bin\Debug\CaloriesCounter.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\CaloriesCounter\bin\Debug\CaloriesCounter.pdb
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\CaloriesCounter\obj\Debug\CaloriesCounter.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\CaloriesCounter\obj\Debug\CaloriesCounter.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\CaloriesCounter\obj\Debug\CaloriesCounter.pdb

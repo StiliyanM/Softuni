@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Pets\bin\Debug\Pets.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Pets\bin\Debug\Pets.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Pets\bin\Debug\Pets.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Pets\obj\Debug\Pets.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Pets\obj\Debug\Pets.pdb

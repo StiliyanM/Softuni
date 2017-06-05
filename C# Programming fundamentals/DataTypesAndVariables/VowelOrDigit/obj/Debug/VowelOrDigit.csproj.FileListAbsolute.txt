@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\VowelOrDigit\bin\Debug\VowelOrDigit.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\VowelOrDigit\obj\Debug\VowelOrDigit.pdb

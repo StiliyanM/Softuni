@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\04. Tourist Information\bin\Debug\_04.Tourist_Information.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\04. Tourist Information\bin\Debug\_04.Tourist_Information.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\04. Tourist Information\bin\Debug\_04.Tourist_Information.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\04. Tourist Information\obj\Debug\_04.Tourist_Information.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\04. Tourist Information\obj\Debug\_04.Tourist_Information.pdb

@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Rectangle-of-N-x-N-Stars\bin\Debug\Rectangle-of-N-x-N-Stars.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Rectangle-of-N-x-N-Stars\bin\Debug\Rectangle-of-N-x-N-Stars.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Rectangle-of-N-x-N-Stars\bin\Debug\Rectangle-of-N-x-N-Stars.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Rectangle-of-N-x-N-Stars\obj\Debug\Rectangle-of-N-x-N-Stars.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Rectangle-of-N-x-N-Stars\obj\Debug\Rectangle-of-N-x-N-Stars.pdb

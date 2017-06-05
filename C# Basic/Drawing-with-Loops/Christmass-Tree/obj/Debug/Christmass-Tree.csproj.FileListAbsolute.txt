@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Christmass-Tree\bin\Debug\Christmass-Tree.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Christmass-Tree\bin\Debug\Christmass-Tree.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Christmass-Tree\bin\Debug\Christmass-Tree.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Christmass-Tree\obj\Debug\Christmass-Tree.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Christmass-Tree\obj\Debug\Christmass-Tree.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Christmass-Tree\obj\Debug\Christmass-Tree.pdb

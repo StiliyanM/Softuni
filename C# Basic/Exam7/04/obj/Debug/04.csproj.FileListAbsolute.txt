@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam7\04\bin\Debug\04.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam7\04\bin\Debug\04.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam7\04\bin\Debug\04.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam7\04\obj\Debug\04.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam7\04\obj\Debug\04.pdb

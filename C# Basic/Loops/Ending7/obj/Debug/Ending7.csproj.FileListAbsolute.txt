@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Ending7\bin\Debug\Ending7.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Ending7\bin\Debug\Ending7.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Ending7\bin\Debug\Ending7.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Ending7\obj\Debug\Ending7.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Ending7\obj\Debug\Ending7.pdb

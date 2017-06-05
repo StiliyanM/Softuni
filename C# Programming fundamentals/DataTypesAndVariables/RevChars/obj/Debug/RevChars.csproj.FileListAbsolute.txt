@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\RevChars\bin\Debug\RevChars.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\RevChars\bin\Debug\RevChars.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\RevChars\bin\Debug\RevChars.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\RevChars\obj\Debug\RevChars.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\RevChars\obj\Debug\RevChars.pdb

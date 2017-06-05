@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\07. Sentence the Thief\bin\Debug\_07.Sentence_the_Thief.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\07. Sentence the Thief\bin\Debug\_07.Sentence_the_Thief.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\07. Sentence the Thief\bin\Debug\_07.Sentence_the_Thief.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\07. Sentence the Thief\obj\Debug\_07.Sentence_the_Thief.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\07. Sentence the Thief\obj\Debug\_07.Sentence_the_Thief.pdb

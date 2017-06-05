@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Conditions\Metric-Converter\bin\Debug\Metric-Converter.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Conditions\Metric-Converter\bin\Debug\Metric-Converter.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Conditions\Metric-Converter\bin\Debug\Metric-Converter.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Conditions\Metric-Converter\obj\Debug\Metric-Converter.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Conditions\Metric-Converter\obj\Debug\Metric-Converter.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Conditions\Metric-Converter\obj\Debug\Metric-Converter.pdb

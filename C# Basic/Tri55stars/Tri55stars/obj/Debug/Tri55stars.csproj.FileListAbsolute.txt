@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Tri55stars\Tri55stars\bin\Debug\Tri55stars.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Tri55stars\Tri55stars\bin\Debug\Tri55stars.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Tri55stars\Tri55stars\bin\Debug\Tri55stars.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Tri55stars\Tri55stars\obj\Debug\Tri55stars.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Tri55stars\Tri55stars\obj\Debug\Tri55stars.pdb

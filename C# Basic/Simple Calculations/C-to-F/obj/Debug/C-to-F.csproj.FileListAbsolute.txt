@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Calculations\C-to-F\bin\Debug\C-to-F.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Calculations\C-to-F\bin\Debug\C-to-F.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Calculations\C-to-F\bin\Debug\C-to-F.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Calculations\C-to-F\obj\Debug\C-to-F.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Calculations\C-to-F\obj\Debug\C-to-F.pdb

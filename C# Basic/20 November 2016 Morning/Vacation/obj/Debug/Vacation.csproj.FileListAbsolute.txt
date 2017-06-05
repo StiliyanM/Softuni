@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Vacation\bin\Debug\Vacation.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Vacation\bin\Debug\Vacation.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Vacation\bin\Debug\Vacation.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Vacation\obj\Debug\Vacation.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Vacation\obj\Debug\Vacation.pdb

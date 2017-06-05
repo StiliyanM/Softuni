@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Half-Sum-Element\bin\Debug\Half-Sum-Element.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Half-Sum-Element\bin\Debug\Half-Sum-Element.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Half-Sum-Element\bin\Debug\Half-Sum-Element.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Half-Sum-Element\obj\Debug\Half-Sum-Element.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Half-Sum-Element\obj\Debug\Half-Sum-Element.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Half-Sum-Element\obj\Debug\Half-Sum-Element.pdb

@@ -1,0 +1,1 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Conditions\Even-Or-Odd\bin\Debug\Even-Or-Odd.exe.config

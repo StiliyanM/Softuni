@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb

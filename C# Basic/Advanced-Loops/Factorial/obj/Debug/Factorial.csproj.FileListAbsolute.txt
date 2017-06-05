@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\Factorial\bin\Debug\Factorial.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\Factorial\bin\Debug\Factorial.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\Factorial\bin\Debug\Factorial.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\Factorial\obj\Debug\Factorial.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\Factorial\obj\Debug\Factorial.pdb

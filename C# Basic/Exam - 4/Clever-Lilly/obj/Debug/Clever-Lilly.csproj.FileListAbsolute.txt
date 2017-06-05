@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam - 4\Clever-Lilly\bin\Debug\Clever-Lilly.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam - 4\Clever-Lilly\bin\Debug\Clever-Lilly.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam - 4\Clever-Lilly\bin\Debug\Clever-Lilly.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam - 4\Clever-Lilly\obj\Debug\Clever-Lilly.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam - 4\Clever-Lilly\obj\Debug\Clever-Lilly.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam - 4\Clever-Lilly\obj\Debug\Clever-Lilly.pdb

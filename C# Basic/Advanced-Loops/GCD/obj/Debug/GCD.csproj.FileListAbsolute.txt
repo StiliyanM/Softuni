@@ -1,0 +1,1 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\GCD\bin\Debug\GCD.exe.config

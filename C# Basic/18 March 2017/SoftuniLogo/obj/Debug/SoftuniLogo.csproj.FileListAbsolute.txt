@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\SoftuniLogo\bin\Debug\SoftuniLogo.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\SoftuniLogo\bin\Debug\SoftuniLogo.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\SoftuniLogo\bin\Debug\SoftuniLogo.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\SoftuniLogo\obj\Debug\SoftuniLogo.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\SoftuniLogo\obj\Debug\SoftuniLogo.pdb

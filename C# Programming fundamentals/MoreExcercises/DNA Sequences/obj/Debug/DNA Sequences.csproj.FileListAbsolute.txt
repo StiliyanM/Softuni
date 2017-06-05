@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\DNA Sequences\bin\Debug\DNA Sequences.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\DNA Sequences\bin\Debug\DNA Sequences.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\DNA Sequences\bin\Debug\DNA Sequences.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\DNA Sequences\obj\Debug\DNA Sequences.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\DNA Sequences\obj\Debug\DNA Sequences.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\DNA Sequences\obj\Debug\DNA Sequences.pdb

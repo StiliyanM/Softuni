@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\SMS Typing\bin\Debug\SMS Typing.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\SMS Typing\bin\Debug\SMS Typing.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\SMS Typing\bin\Debug\SMS Typing.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\SMS Typing\obj\Debug\SMS Typing.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\SMS Typing\obj\Debug\SMS Typing.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\SMS Typing\obj\Debug\SMS Typing.pdb

@@ -1,0 +1,6 @@
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\NeighbourWars\bin\Debug\NeighbourWars.exe.config
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\NeighbourWars\bin\Debug\NeighbourWars.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\NeighbourWars\bin\Debug\NeighbourWars.pdb
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\NeighbourWars\obj\Debug\NeighbourWars.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\NeighbourWars\obj\Debug\NeighbourWars.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\NeighbourWars\obj\Debug\NeighbourWars.pdb

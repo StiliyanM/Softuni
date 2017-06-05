@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Sleepy-Tom\Firm\bin\Debug\Firm.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Sleepy-Tom\Firm\bin\Debug\Firm.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Sleepy-Tom\Firm\bin\Debug\Firm.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Sleepy-Tom\Firm\obj\Debug\Firm.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\Sleepy-Tom\Firm\obj\Debug\Firm.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Sleepy-Tom\Firm\obj\Debug\Firm.pdb

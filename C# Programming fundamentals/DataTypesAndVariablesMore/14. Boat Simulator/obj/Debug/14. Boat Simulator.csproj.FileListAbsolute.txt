@@ -1,0 +1,6 @@
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariablesMore\14. Boat Simulator\bin\Debug\_14.Boat_Simulator.exe.config
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariablesMore\14. Boat Simulator\bin\Debug\_14.Boat_Simulator.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariablesMore\14. Boat Simulator\bin\Debug\_14.Boat_Simulator.pdb
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariablesMore\14. Boat Simulator\obj\Debug\14. Boat Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariablesMore\14. Boat Simulator\obj\Debug\_14.Boat_Simulator.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariablesMore\14. Boat Simulator\obj\Debug\_14.Boat_Simulator.pdb

@@ -1,0 +1,5 @@
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\CakeIngredients\bin\Debug\CakeIngredients.exe.config
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\CakeIngredients\bin\Debug\CakeIngredients.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\CakeIngredients\bin\Debug\CakeIngredients.pdb
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\CakeIngredients\obj\Debug\CakeIngredients.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\CakeIngredients\obj\Debug\CakeIngredients.pdb

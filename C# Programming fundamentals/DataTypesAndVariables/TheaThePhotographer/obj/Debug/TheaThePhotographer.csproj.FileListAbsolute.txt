@@ -1,0 +1,6 @@
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe.config
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\TheaThePhotographer\bin\Debug\TheaThePhotographer.pdb
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\TheaThePhotographer\obj\Debug\TheaThePhotographer.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\TheaThePhotographer\obj\Debug\TheaThePhotographer.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\TheaThePhotographer\obj\Debug\TheaThePhotographer.pdb

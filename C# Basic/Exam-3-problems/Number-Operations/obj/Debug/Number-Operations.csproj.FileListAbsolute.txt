@@ -1,0 +1,6 @@
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Number-Operations\bin\Debug\Number-Operations.exe.config
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Number-Operations\bin\Debug\Number-Operations.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Number-Operations\bin\Debug\Number-Operations.pdb
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Number-Operations\obj\Debug\Number-Operations.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Number-Operations\obj\Debug\Number-Operations.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Number-Operations\obj\Debug\Number-Operations.pdb

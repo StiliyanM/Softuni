@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\LettersCombinations\bin\Debug\LettersCombinations.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\LettersCombinations\bin\Debug\LettersCombinations.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\LettersCombinations\bin\Debug\LettersCombinations.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\LettersCombinations\obj\Debug\LettersCombinations.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\LettersCombinations\obj\Debug\LettersCombinations.pdb

@@ -1,0 +1,5 @@
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariablesMore\15. Balanced Brackets\bin\Debug\_15.Balanced_Brackets.exe.config
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariablesMore\15. Balanced Brackets\bin\Debug\_15.Balanced_Brackets.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariablesMore\15. Balanced Brackets\bin\Debug\_15.Balanced_Brackets.pdb
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariablesMore\15. Balanced Brackets\obj\Debug\_15.Balanced_Brackets.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\DataTypesAndVariablesMore\15. Balanced Brackets\obj\Debug\_15.Balanced_Brackets.pdb

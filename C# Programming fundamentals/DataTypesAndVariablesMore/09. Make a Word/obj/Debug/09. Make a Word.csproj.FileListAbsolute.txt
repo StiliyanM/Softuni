@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\09. Make a Word\bin\Debug\_09.Make_a_Word.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\09. Make a Word\bin\Debug\_09.Make_a_Word.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\09. Make a Word\bin\Debug\_09.Make_a_Word.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\09. Make a Word\obj\Debug\_09.Make_a_Word.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\09. Make a Word\obj\Debug\_09.Make_a_Word.pdb

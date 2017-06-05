@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\BackwardsLoop\bin\Debug\BackwardsLoop.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\BackwardsLoop\bin\Debug\BackwardsLoop.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\BackwardsLoop\bin\Debug\BackwardsLoop.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\BackwardsLoop\obj\Debug\BackwardsLoop.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\BackwardsLoop\obj\Debug\BackwardsLoop.pdb

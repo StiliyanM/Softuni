@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\11. String Concatenation\bin\Debug\_11.String_Concatenation.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\11. String Concatenation\bin\Debug\_11.String_Concatenation.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\11. String Concatenation\bin\Debug\_11.String_Concatenation.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\11. String Concatenation\obj\Debug\_11.String_Concatenation.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\11. String Concatenation\obj\Debug\_11.String_Concatenation.pdb

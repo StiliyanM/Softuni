@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\NumberTable\bin\Debug\NumberTable.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\NumberTable\bin\Debug\NumberTable.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\NumberTable\bin\Debug\NumberTable.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\NumberTable\obj\Debug\NumberTable.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\NumberTable\obj\Debug\NumberTable.pdb

@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam-5\Fortress\bin\Debug\Fortress.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam-5\Fortress\bin\Debug\Fortress.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam-5\Fortress\bin\Debug\Fortress.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam-5\Fortress\obj\Debug\Fortress.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Exam-5\Fortress\obj\Debug\Fortress.pdb

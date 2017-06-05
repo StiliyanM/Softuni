@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\MoreExcercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.pdb

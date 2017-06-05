@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\WorkHours\bin\Debug\WorkHours.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\WorkHours\bin\Debug\WorkHours.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\WorkHours\bin\Debug\WorkHours.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\WorkHours\obj\Debug\WorkHours.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\WorkHours\obj\Debug\WorkHours.pdb

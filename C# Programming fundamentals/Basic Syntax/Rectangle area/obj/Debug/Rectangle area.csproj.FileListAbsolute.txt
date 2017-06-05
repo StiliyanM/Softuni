@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Basic Syntax\Rectangle area\bin\Debug\Rectangle area.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Basic Syntax\Rectangle area\bin\Debug\Rectangle area.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Basic Syntax\Rectangle area\bin\Debug\Rectangle area.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Basic Syntax\Rectangle area\obj\Debug\Rectangle area.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Basic Syntax\Rectangle area\obj\Debug\Rectangle area.pdb

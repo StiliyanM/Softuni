@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Rectangle-of-10-x-10-Stars\bin\Debug\Rectangle-of-10-x-10-Stars.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Rectangle-of-10-x-10-Stars\bin\Debug\Rectangle-of-10-x-10-Stars.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Rectangle-of-10-x-10-Stars\bin\Debug\Rectangle-of-10-x-10-Stars.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Rectangle-of-10-x-10-Stars\obj\Debug\Rectangle-of-10-x-10-Stars.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Rectangle-of-10-x-10-Stars\obj\Debug\Rectangle-of-10-x-10-Stars.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Drawing-with-Loops\Rectangle-of-10-x-10-Stars\obj\Debug\Rectangle-of-10-x-10-Stars.pdb

@@ -1,0 +1,5 @@
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\GameofNumbers\bin\Debug\GameofNumbers.exe.config
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\GameofNumbers\bin\Debug\GameofNumbers.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\GameofNumbers\bin\Debug\GameofNumbers.pdb
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\GameofNumbers\obj\Debug\GameofNumbers.exe
+C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\ConditionalStatementsandLoops\GameofNumbers\obj\Debug\GameofNumbers.pdb

@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\06. Catch the Thief\bin\Debug\_06.Catch_the_Thief.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\06. Catch the Thief\bin\Debug\_06.Catch_the_Thief.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\06. Catch the Thief\bin\Debug\_06.Catch_the_Thief.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\06. Catch the Thief\obj\Debug\_06.Catch_the_Thief.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\06. Catch the Thief\obj\Debug\_06.Catch_the_Thief.pdb

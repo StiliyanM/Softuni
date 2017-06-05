@@ -1,0 +1,1 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Basic Syntax\CharacterStats\bin\Debug\CharacterStats.exe.config

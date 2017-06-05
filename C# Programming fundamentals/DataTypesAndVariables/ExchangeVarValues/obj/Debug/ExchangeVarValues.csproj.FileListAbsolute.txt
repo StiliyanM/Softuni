@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\ExchangeVarValues\bin\Debug\ExchangeVarValues.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\ExchangeVarValues\bin\Debug\ExchangeVarValues.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\ExchangeVarValues\bin\Debug\ExchangeVarValues.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\ExchangeVarValues\obj\Debug\ExchangeVarValues.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\ExchangeVarValues\obj\Debug\ExchangeVarValues.pdb

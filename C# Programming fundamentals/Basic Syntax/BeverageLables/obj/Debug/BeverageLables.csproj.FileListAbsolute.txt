@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Basic Syntax\BeverageLables\bin\Debug\BeverageLables.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Basic Syntax\BeverageLables\bin\Debug\BeverageLables.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Basic Syntax\BeverageLables\bin\Debug\BeverageLables.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Basic Syntax\BeverageLables\obj\Debug\BeverageLables.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Basic Syntax\BeverageLables\obj\Debug\BeverageLables.pdb

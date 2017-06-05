@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Odd-or-Even-Position\bin\Debug\Odd-or-Even-Position.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Odd-or-Even-Position\bin\Debug\Odd-or-Even-Position.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Odd-or-Even-Position\bin\Debug\Odd-or-Even-Position.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Odd-or-Even-Position\obj\Debug\Odd-or-Even-Position.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Odd-or-Even-Position\obj\Debug\Odd-or-Even-Position.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Odd-or-Even-Position\obj\Debug\Odd-or-Even-Position.pdb

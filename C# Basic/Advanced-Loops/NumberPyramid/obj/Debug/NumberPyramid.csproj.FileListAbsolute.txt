@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\NumberPyramid\bin\Debug\NumberPyramid.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\NumberPyramid\bin\Debug\NumberPyramid.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\NumberPyramid\obj\Debug\NumberPyramid.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\NumberPyramid\obj\Debug\NumberPyramid.pdb

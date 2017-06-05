@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\TriangleArea\TriangleArea\bin\Debug\TriangleArea.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\TriangleArea\TriangleArea\bin\Debug\TriangleArea.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\TriangleArea\TriangleArea\bin\Debug\TriangleArea.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\TriangleArea\TriangleArea\obj\Debug\TriangleArea.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\TriangleArea\TriangleArea\obj\Debug\TriangleArea.pdb

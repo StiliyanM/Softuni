@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Odd Even Sum\bin\Debug\Odd Even Sum.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Odd Even Sum\bin\Debug\Odd Even Sum.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Odd Even Sum\bin\Debug\Odd Even Sum.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Odd Even Sum\obj\Debug\Odd Even Sum.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Loops\Odd Even Sum\obj\Debug\Odd Even Sum.pdb

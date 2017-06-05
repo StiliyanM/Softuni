@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\05. Weather Forecast\obj\Debug\05. Weather Forecast.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\05. Weather Forecast\obj\Debug\_05.Weather_Forecast.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariablesMore\05. Weather Forecast\obj\Debug\_05.Weather_Forecast.pdb

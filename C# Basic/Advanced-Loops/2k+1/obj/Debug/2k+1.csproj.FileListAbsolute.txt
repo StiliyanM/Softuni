@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\2k+1\bin\Debug\2k+1.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\2k+1\bin\Debug\2k+1.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\2k+1\bin\Debug\2k+1.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\2k+1\obj\Debug\2k+1.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\2k+1\obj\Debug\2k+1.pdb

@@ -1,0 +1,1 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\DataTypesAndVariables\IntToHexAndBinary\bin\Debug\IntToHexAndBinary.exe.config

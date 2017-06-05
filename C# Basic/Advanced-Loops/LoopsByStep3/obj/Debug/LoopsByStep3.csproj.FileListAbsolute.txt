@@ -1,0 +1,6 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\LoopsByStep3\bin\Debug\LoopsByStep3.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\LoopsByStep3\bin\Debug\LoopsByStep3.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\LoopsByStep3\bin\Debug\LoopsByStep3.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\LoopsByStep3\obj\Debug\LoopsByStep3.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\LoopsByStep3\obj\Debug\LoopsByStep3.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\LoopsByStep3\obj\Debug\LoopsByStep3.pdb

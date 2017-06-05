@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Day-Pay\bin\Debug\Day-Pay.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Day-Pay\bin\Debug\Day-Pay.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Day-Pay\bin\Debug\Day-Pay.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Day-Pay\obj\Debug\Day-Pay.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Day-Pay\obj\Debug\Day-Pay.pdb

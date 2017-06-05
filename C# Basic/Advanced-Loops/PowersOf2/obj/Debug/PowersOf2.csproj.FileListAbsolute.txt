@@ -1,0 +1,5 @@
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\PowersOf2\bin\Debug\PowersOf2.exe.config
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\PowersOf2\bin\Debug\PowersOf2.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\PowersOf2\bin\Debug\PowersOf2.pdb
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\PowersOf2\obj\Debug\PowersOf2.exe
+c:\users\aleksandar\documents\visual studio 2015\Projects\Advanced-Loops\PowersOf2\obj\Debug\PowersOf2.pdb
