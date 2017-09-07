@@ -26,21 +26,32 @@ namespace _07.TakeSkip_Rope
                 }
             }
 
-            var skipList = numbersList.Where(x => numbersList.IndexOf(x) % 2 == 0).ToList();
-            var takeList = numbersList.Where(x => numbersList.IndexOf(x) % 2 == 1).ToList();
+            var skipList = new List<int>();
+            var takeList = new List<int>();
+
+            for (int i = 0; i < numbersList.Count; i++)
+            {
+                if (i % 2 == 0)
+                    takeList.Add((int)char.GetNumericValue(numbersList[i]));
+                else
+                {
+                    skipList.Add((int)char.GetNumericValue(numbersList[i]));
+                }
+                
+            }
+             
 
             string result = string.Empty;
             int total = 0;
             for(int i = 0; i < skipList.Count();i++)
             {
-                
-                string temp = new string(nonNumbersList.Skip(skipList[i] + total).Take(takeList[i]).ToArray());
+                string temp = new string(nonNumbersList.Skip(total).Take(takeList[i]).ToArray());
                 result += temp;
                 total += skipList[i] + takeList[i];
 
             }
 
-            Console.WriteLine(result);
+            Console.WriteLine(result); 
         }
     }
 }

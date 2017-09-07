@@ -7,8 +7,6 @@ class MaxSeqofIncreasingElements
     {
         int[] array = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
-
-        
         int len = 1;
         int endlen = 1;
         int startIndex = 0;
@@ -16,7 +14,6 @@ class MaxSeqofIncreasingElements
         {
             if (array[i] < array[i + 1])
             {
-                
                 len++;
 
                 if (len > endlen)

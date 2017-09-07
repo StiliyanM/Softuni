@@ -7,7 +7,6 @@ class MaxSequenceOfEqualElements
     {
         int[] array = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
-
         int endNum = 0;
         int len = 1;
         int endlen = 1;
@@ -16,7 +15,6 @@ class MaxSequenceOfEqualElements
             if(array[i] == array[i + 1])
             {
                 len++;
-
                 if(len > endlen)
                 {
                     endlen = len;

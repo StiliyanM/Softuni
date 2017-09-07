@@ -1,41 +1,46 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _06.Byte_Flip
+class ByteFlip
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        List<string> input = Console.ReadLine().Split().ToList();
+
+        List<string> neededInput = new List<string>();
+
+        for (int index = 0; index < input.Count; index++)
         {
-            var bytes = Console.ReadLine().Split().ToList();
-
-            bytes.RemoveAll(x => !(x.Length == 2));
-
-            int iterator = 0;
-            bool isNumber = true;
-            foreach (var item in bytes)
+            if (input[index].Length == 2)
             {
-                foreach (var i in item)
-                {
-                    if (!char.IsDigit(i))
-                        isNumber = false;
-                }
-                iterator++;
-                if(isNumber == true)
-                {
-                    bytes[iterator] = bytes[iterator].Reverse().ToString();
-                }
+                neededInput.Add(input[index]);
             }
-            bytes.Reverse();
-
-            foreach (var item in bytes)
-            {
-                Console.WriteLine(item);
-            }
-
         }
+
+        List<string> numbersInHec = new List<string>();
+        List<char> numbers = new List<char>();
+
+        for (int index = 0; index < neededInput.Count; index++)
+        {
+            numbers = neededInput[index].ToCharArray().ToList();
+            string revesedNum = numbers[1] + "" + numbers[0];
+            numbersInHec.Add(revesedNum);
+        }
+        numbersInHec.Reverse();
+
+        List<int> numbersInDec = new List<int>();
+
+        for (int index = 0; index < numbersInHec.Count; index++)
+        {
+            int decValue = Convert.ToInt32(numbersInHec[index], 16);
+            numbersInDec.Add(decValue);
+        }
+
+        for (int index = 0; index < numbersInDec.Count; index++)
+        {
+            Console.Write((char)numbersInDec[index]);
+        }
+        Console.WriteLine();
     }
 }

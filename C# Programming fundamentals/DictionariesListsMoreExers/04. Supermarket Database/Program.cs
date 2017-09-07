@@ -26,11 +26,17 @@ namespace _04.Supermarket_Database
 
                         var name1 = n.Key;
                         var pricesQuantities = n.Value;
+                        double p = 0;
+                        int q = 0;
+                        double currentPrice = 0;
                         foreach (var item in pricesQuantities)
                         {
-                            Console.WriteLine($"{name1}: ${item.Key:F2} * {item.Value} = ${item.Key * item.Value:F2}");
-                            totalPrice += item.Key * item.Value;
+                             p = item.Key;
+                             q += item.Value;
                         }
+                        currentPrice = p * q;
+                        totalPrice += currentPrice;
+                        Console.WriteLine($"{name1}: ${p:F2} * {q} = ${currentPrice:F2}");
                     }
                     Console.WriteLine("------------------------------");
                     Console.WriteLine($"Grand Total: ${totalPrice:F2}");
@@ -47,10 +53,12 @@ namespace _04.Supermarket_Database
                 }
                 if(!namesPricesQuantities[name].ContainsKey(price))
                 {
-                    namesPricesQuantities.Add(quantity, price);
+                     namesPricesQuantities[name][price] = quantity;
                 }
-
-                namesPricesQuantities[name][price] += quantity;
+                else if(namesPricesQuantities[name].ContainsKey(price))
+                {
+                    namesPricesQuantities[name][price] += quantity;
+                }
             }
         }
     }

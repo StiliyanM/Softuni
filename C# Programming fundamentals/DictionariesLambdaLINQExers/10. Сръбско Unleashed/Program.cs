@@ -16,7 +16,7 @@ namespace _10.Сръбско_Unleashed
             {
                 var tokens = Console.ReadLine().Split().ToArray();
 
-                if(tokens[0] == "End")
+                if (tokens[0] == "End")
                 {
                     foreach (var v in venuesSingersMoney)
                     {
@@ -33,12 +33,12 @@ namespace _10.Сръбско_Unleashed
                     break;
                 }
 
-                while (!tokens.Contains("@") && tokens.Length < 4) 
+                while (!tokens.Contains("@") && tokens.Length < 4)
                 {
                     tokens = Console.ReadLine().Split().ToArray();
 
                     if (tokens[0] == "End")
-                        return;
+                        break;
                 }
 
                 tokens = string.Join(" ", tokens).Split('@').ToArray();
@@ -48,7 +48,7 @@ namespace _10.Сръбско_Unleashed
                 var venueDigits = tokens[1].Split().ToArray();
 
                 string venue = string.Empty;
-                if(venueDigits.Length == 4)
+                if (venueDigits.Length == 4)
                 {
                     venue = venueDigits[0] + " " + venueDigits[1];
                 }
@@ -62,12 +62,12 @@ namespace _10.Сръбско_Unleashed
 
                 long money = ticketCount * ticketPrice;
 
-                if(!venuesSingersMoney.ContainsKey(venue))
+                if (!venuesSingersMoney.ContainsKey(venue))
                 {
                     venuesSingersMoney[venue] = new Dictionary<string, long>();
                 }
 
-                if(!venuesSingersMoney[venue].ContainsKey(singer))
+                if (!venuesSingersMoney[venue].ContainsKey(singer))
                 {
                     venuesSingersMoney[venue][singer] = money;
                 }

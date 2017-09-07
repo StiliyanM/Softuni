@@ -28,24 +28,34 @@ namespace _11.Dragon_Army
                 if (!typeNameStats.ContainsKey(type) && !typeAverages.ContainsKey(type))
                 {
                     typeNameStats[type] = new SortedDictionary<string, List<long>>();
-                    typeAverages[type] = new List<decimal>();
+                    typeAverages[type] = new List<decimal>() { 0m, 0.00m,0.00m,0.00m };
                 }
+                if(typeNameStats.ContainsKey(type) && typeNameStats[type].ContainsKey(name))
+                {
+                    typeNameStats[type][name] = stats;
+                }
+
+
                 if (!typeNameStats[type].ContainsKey(name))
                 {
                     typeNameStats[type][name] = stats;
-                    for (int j = 0; j < typeAverages[type].Count; j++)
+                    for (int j = 0; j < 3; j++)
                     {
-                        typeAverages[type][j] += typeNameStats[type][name][j];
+                        typeAverages[type][j + 1] += typeNameStats[type][name][j];
                     }
                 }
 
-                typeAverages[type] = typeAverages[type].Select(x => x / 2).ToList();
+                typeAverages[type][0]++;
             }
+
+            
             foreach (var type in typeNameStats)
             {
                 var thetype = type.Key;
                 var nameStats = type.Value;
-             
+                var average = typeAverages[thetype].Select(x => x / typeAverages[thetype][0]).ToList();
+
+                Console.WriteLine($"{thetype}::({average[1]}/{average[2]}/{average[3]})");
 
 
                 foreach (var name in nameStats)
@@ -53,7 +63,7 @@ namespace _11.Dragon_Army
                     var theName = name.Key;
                     var theStats = name.Value;
 
-                    Console.WriteLine(theName + " " + string.Join(" ", theStats));
+                    Console.WriteLine($"-{theName} -> damage: {theStats[0]}, health: {theStats[1]}, armor: {theStats[2]}");
                 }
             }
 
