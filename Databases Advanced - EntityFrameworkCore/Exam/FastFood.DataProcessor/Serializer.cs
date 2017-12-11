@@ -1,16 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
-using FastFood.Data;
 using System.Linq;
+using System.Text;
+using System.Xml;
+using System.Xml.Serialization;
+using FastFood.Data;
+using FastFood.DataProcessor.Dto.Export;
+using FastFood.Models;
 using FastFood.Models.Enums;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using FastFood.DataProcessor.Dto.Export;
-using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
-using System.Xml.Serialization;
-using System.Xml;
-using System.Text;
+using Formatting = Newtonsoft.Json.Formatting;
 
 namespace FastFood.DataProcessor
 {
@@ -18,67 +18,91 @@ namespace FastFood.DataProcessor
     {
         public static string ExportOrdersByEmployee(FastFoodDbContext context, string employeeName, string orderType)
         {
-            var type = Enum.Parse<OrderType>(orderType);
-
-            var orders = context.Orders
-                .Where(o => o.Employee.Name == employeeName && o.Type == type)
-                .Select(o => new
-                {
-                    Customer = o.Customer,
-                    Items = o.OrderItems.Select(e => new
+            EmployeeWithOrdersDto employeeWithOrdersDto = new EmployeeWithOrdersDto
+            {
+                Name = employeeName,
+                Orders = context.Employees
+                    .Single(e => e.Name == employeeName)
+                    .Orders
+                    .Where(o => o.Type == Enum.Parse<OrderType>(orderType))
+                    .Select(o => new OrderDto
                     {
-                        Name = e.Item.Name,
-                        Price = e.Item.Price,
-                        Quantity = e.Quantity
-                    }).ToArray(),
+                        Customer = o.Customer,
 
-                    TotalPrice = o.OrderItems.Sum(e => e.Item.Price * e.Quantity)
-                })
-                .OrderByDescending(e => e.TotalPrice)
-                .OrderByDescending(e => e.Items.Length)
-                .ToArray();
+                        Items = o.OrderItems.Select(oi => new ItemDto
+                        {
+                            Name = oi.Item.Name,
+                            Price = oi.Item.Price,
+                            Quantity = oi.Quantity
+                        })
+                            .ToList(),
 
-            var sb = new StringBuilder();
+                        TotalPrice = o.TotalPrice
+                    })
+                .OrderByDescending(or => or.TotalPrice)
+                .ThenByDescending(or => or.Items.Count)
+                .ToList()
+            };
 
-            sb.AppendLine(",");
-            sb.AppendLine("  \"TotalMade\": 165.90");
-            sb.Append("}");
-            //jObject.Add("TotalMade", orders.Sum(e => e.TotalPrice));
-            var jsonString = JsonConvert.SerializeObject(orders, Newtonsoft.Json.Formatting.Indented);
-            var result = jsonString + sb.ToString();
-            return result;
+            string serializedOrders = JsonConvert.SerializeObject(employeeWithOrdersDto, Formatting.Indented);
+            return serializedOrders;
         }
 
         public static string ExportCategoryStatistics(FastFoodDbContext context, string categoriesString)
         {
-            var categoryNames = categoriesString.Split(',');
+            List<CategoryDto> resultCategoryDtos = new List<CategoryDto>();
+            string[] inputCategoriesNames = categoriesString.Split(",");
 
-            //var categories = new List<CategoryDto>();
+            foreach (string inputCategoryName in inputCategoriesNames)
+            {
+                List<CategoryItemDto> itemDtos = new List<CategoryItemDto>();
 
-            var categories = context.OrderItems
-                .Include(i => i.Item)
-                .ThenInclude(i => i.Category)
-                .Include(i => i.Order)
-                .Where(i => categoryNames.Any(cn => cn == i.Item.Category.Name));
+                Category category = context.Categories.SingleOrDefault(c => c.Name == inputCategoryName);
 
-                var items = context.OrderItems
-                .Include(oi => oi.Item)
-                .Include(oi => oi.Order)
-                .Select(e => new
+                Item[] categoryItems = category.Items
+                    .Where(i => i.Category.Name == inputCategoryName && i.OrderItems.Any())
+                    .ToArray();
+
+                foreach (Item item in categoryItems)
                 {
-                    e.Item.Category.Name,
-                    OrdersCount = e.Item.OrderItems.Count(),
-                    MoneyMade = e.Quantity * e.Item.Price
-                }).ToArray();
+                    int quantity = item.OrderItems
+                        .Where(oi => oi.ItemId == item.Id)
+                        .Sum(oi => oi.Quantity);
 
-            Console.WriteLine();
-                
-                //var serializer = new XmlSerializer(typeof(CategoryDto[]), new XmlRootAttribute("Categories"));
-                //serializer.Serialize(new StringWriter(sb), categories.ToArray(), new XmlSerializerNamespaces(new[] { XmlQualifiedName.Empty }));
-                var sb = new StringBuilder();
-            var result = sb.ToString();
-            return result;
+                    decimal totalMoney = quantity * item.Price;
 
+                    CategoryItemDto itemDto = new CategoryItemDto
+                    {
+                        Name = item.Name,
+                        TimesSold = quantity,
+                        TotalMade = totalMoney
+                    };
+
+                    itemDtos.Add(itemDto);
+                }
+
+                decimal maxTotalMoneyMade = itemDtos.Max(x => x.TotalMade);
+                CategoryItemDto mostPopularItem = itemDtos.Single(i => i.TotalMade == maxTotalMoneyMade);
+
+                CategoryDto currentCategoryDto = new CategoryDto
+                {
+                    Name = category.Name,
+                    MostPopularItem = mostPopularItem
+                };
+
+                resultCategoryDtos.Add(currentCategoryDto);
+            }
+
+            resultCategoryDtos = resultCategoryDtos.OrderByDescending(x => x.MostPopularItem.TotalMade)
+                                               .ThenByDescending(x => x.MostPopularItem.TimesSold)
+                                               .ToList();
+
+            StringBuilder sb = new StringBuilder();
+            XmlSerializer serializer = new XmlSerializer(typeof(List<CategoryDto>), new XmlRootAttribute("Categories"));
+            serializer.Serialize(new StringWriter(sb), resultCategoryDtos, new XmlSerializerNamespaces(new[] { XmlQualifiedName.Empty }));
+
+            string serializedCategories = sb.ToString();
+            return serializedCategories;
         }
     }
 }
