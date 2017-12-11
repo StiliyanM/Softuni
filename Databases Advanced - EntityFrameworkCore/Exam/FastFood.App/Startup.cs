@@ -15,13 +15,13 @@ namespace FastFood.App
 		{
 			var context = new FastFoodDbContext();
 
-            //ResetDatabase(context);
+            ResetDatabase(context);
 
-            //Console.WriteLine("Database Reset.");
+            Console.WriteLine("Database Reset.");
 
             Mapper.Initialize(cfg => cfg.AddProfile<FastFoodProfile>());
 
-            //ImportEntities(context);
+            ImportEntities(context);
 
             ExportEntities(context);
 
@@ -46,9 +46,9 @@ namespace FastFood.App
 		{
 			const string exportDir = "./ImportResults/";
 
-            //var jsonOutput = DataProcessor.Serializer.ExportOrdersByEmployee(context, "Avery Rush", "ToGo");
-            //Console.WriteLine(jsonOutput);
-            //File.WriteAllText(exportDir + "OrdersByEmployee.json", jsonOutput);
+            var jsonOutput = DataProcessor.Serializer.ExportOrdersByEmployee(context, "Avery Rush", "ToGo");
+            Console.WriteLine(jsonOutput);
+            File.WriteAllText(exportDir + "OrdersByEmployee.json", jsonOutput);
 
             var xmlOutput = DataProcessor.Serializer.ExportCategoryStatistics(context, "Chicken,Drinks,Toys");
             Console.WriteLine(xmlOutput);

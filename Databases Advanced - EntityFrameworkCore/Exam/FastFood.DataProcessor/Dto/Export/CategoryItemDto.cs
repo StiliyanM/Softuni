@@ -3,7 +3,7 @@
 namespace FastFood.DataProcessor.Dto.Export
 {
     [XmlType("MostPopularItem")]
-    public class MostPopularItemDto
+    public class CategoryItemDto
     {
         public string Name { get; set; }
 
