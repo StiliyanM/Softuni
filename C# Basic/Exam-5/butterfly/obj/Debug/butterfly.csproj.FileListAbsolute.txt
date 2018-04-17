@@ -1,6 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\Exam-5\butterfly\bin\Debug\butterfly.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\Exam-5\butterfly\bin\Debug\butterfly.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\Exam-5\butterfly\bin\Debug\butterfly.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\Exam-5\butterfly\obj\Debug\butterfly.csprojResolveAssemblyReference.cache
-c:\users\aleksandar\documents\visual studio 2015\Projects\Exam-5\butterfly\obj\Debug\butterfly.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\Exam-5\butterfly\obj\Debug\butterfly.pdb

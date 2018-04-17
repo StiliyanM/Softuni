@@ -1,6 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 December 2014\PiggyBank\bin\Debug\PiggyBank.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 December 2014\PiggyBank\bin\Debug\PiggyBank.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 December 2014\PiggyBank\bin\Debug\PiggyBank.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 December 2014\PiggyBank\obj\Debug\PiggyBank.csprojResolveAssemblyReference.cache
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 December 2014\PiggyBank\obj\Debug\PiggyBank.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 December 2014\PiggyBank\obj\Debug\PiggyBank.pdb

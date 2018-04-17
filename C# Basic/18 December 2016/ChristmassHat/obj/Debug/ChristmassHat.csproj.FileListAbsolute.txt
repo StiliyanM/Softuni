@@ -1,5 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\ChristmassHat\bin\Debug\ChristmassHat.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\ChristmassHat\bin\Debug\ChristmassHat.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\ChristmassHat\bin\Debug\ChristmassHat.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\ChristmassHat\obj\Debug\ChristmassHat.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\ChristmassHat\obj\Debug\ChristmassHat.pdb

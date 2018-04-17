@@ -1,5 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\MaxCombinaton\bin\Debug\MaxCombinaton.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\MaxCombinaton\bin\Debug\MaxCombinaton.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\MaxCombinaton\bin\Debug\MaxCombinaton.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\MaxCombinaton\obj\Debug\MaxCombinaton.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\MaxCombinaton\obj\Debug\MaxCombinaton.pdb

@@ -1,6 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\SoftUniCamp\bin\Debug\SoftUniCamp.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\SoftUniCamp\bin\Debug\SoftUniCamp.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\SoftUniCamp\bin\Debug\SoftUniCamp.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\SoftUniCamp\obj\Debug\SoftUniCamp.csprojResolveAssemblyReference.cache
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\SoftUniCamp\obj\Debug\SoftUniCamp.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\SoftUniCamp\obj\Debug\SoftUniCamp.pdb

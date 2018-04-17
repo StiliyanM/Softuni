@@ -1,6 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\fishland\bin\Debug\fishland.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\fishland\bin\Debug\fishland.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\fishland\bin\Debug\fishland.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\fishland\obj\Debug\fishland.csprojResolveAssemblyReference.cache
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\fishland\obj\Debug\fishland.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\fishland\obj\Debug\fishland.pdb

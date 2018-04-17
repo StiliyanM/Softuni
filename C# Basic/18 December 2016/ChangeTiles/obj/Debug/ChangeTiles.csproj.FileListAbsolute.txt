@@ -1,5 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\ChangeTiles\bin\Debug\ChangeTiles.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\ChangeTiles\bin\Debug\ChangeTiles.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\ChangeTiles\bin\Debug\ChangeTiles.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\ChangeTiles\obj\Debug\ChangeTiles.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\ChangeTiles\obj\Debug\ChangeTiles.pdb

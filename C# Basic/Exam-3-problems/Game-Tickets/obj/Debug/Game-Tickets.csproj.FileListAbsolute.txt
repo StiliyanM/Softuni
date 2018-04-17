@@ -1,6 +1,0 @@
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Game-Tickets\bin\Debug\Game-Tickets.exe.config
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Game-Tickets\bin\Debug\Game-Tickets.exe
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Game-Tickets\bin\Debug\Game-Tickets.pdb
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Game-Tickets\obj\Debug\Game-Tickets.csprojResolveAssemblyReference.cache
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Game-Tickets\obj\Debug\Game-Tickets.exe
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Game-Tickets\obj\Debug\Game-Tickets.pdb

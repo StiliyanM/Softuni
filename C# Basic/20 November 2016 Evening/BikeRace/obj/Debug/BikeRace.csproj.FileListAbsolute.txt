@@ -1,5 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\BikeRace\bin\Debug\BikeRace.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\BikeRace\bin\Debug\BikeRace.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\BikeRace\bin\Debug\BikeRace.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\BikeRace\obj\Debug\BikeRace.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\BikeRace\obj\Debug\BikeRace.pdb

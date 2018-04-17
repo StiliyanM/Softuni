@@ -1,1 +1,8 @@
 c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Conditions\Number-to-Text\bin\Debug\Number-to-Text.exe.config
+D:\Softuni\C# Basic\Simple Conditions\Number-to-Text\bin\Debug\Number-to-Text.exe.config
+D:\Softuni\C# Basic\Simple Conditions\Number-to-Text\bin\Debug\Number-to-Text.exe
+D:\Softuni\C# Basic\Simple Conditions\Number-to-Text\bin\Debug\Number-to-Text.pdb
+D:\Softuni\C# Basic\Simple Conditions\Number-to-Text\obj\Debug\Number-to-Text.csprojResolveAssemblyReference.cache
+D:\Softuni\C# Basic\Simple Conditions\Number-to-Text\obj\Debug\Number-to-Text.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Basic\Simple Conditions\Number-to-Text\obj\Debug\Number-to-Text.exe
+D:\Softuni\C# Basic\Simple Conditions\Number-to-Text\obj\Debug\Number-to-Text.pdb

@@ -1,6 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\Sleepy-Tom\Sleepy-Tom\bin\Debug\Sleepy-Tom.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\Sleepy-Tom\Sleepy-Tom\bin\Debug\Sleepy-Tom.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\Sleepy-Tom\Sleepy-Tom\bin\Debug\Sleepy-Tom.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\Sleepy-Tom\Sleepy-Tom\obj\Debug\Sleepy-Tom.csprojResolveAssemblyReference.cache
-c:\users\aleksandar\documents\visual studio 2015\Projects\Sleepy-Tom\Sleepy-Tom\obj\Debug\Sleepy-Tom.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\Sleepy-Tom\Sleepy-Tom\obj\Debug\Sleepy-Tom.pdb

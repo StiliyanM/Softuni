@@ -1,5 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Battles\bin\Debug\Battles.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Battles\bin\Debug\Battles.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Battles\bin\Debug\Battles.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Battles\obj\Debug\Battles.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Morning\Battles\obj\Debug\Battles.pdb

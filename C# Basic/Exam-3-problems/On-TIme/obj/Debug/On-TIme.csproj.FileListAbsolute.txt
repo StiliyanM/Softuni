@@ -1,6 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\Exam-3-problems\On-TIme\bin\Debug\On-TIme.exe.config
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\On-TIme\bin\Debug\On-TIme.exe
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\On-TIme\bin\Debug\On-TIme.pdb
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\On-TIme\obj\Debug\On-TIme.csprojResolveAssemblyReference.cache
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\On-TIme\obj\Debug\On-TIme.exe
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\On-TIme\obj\Debug\On-TIme.pdb

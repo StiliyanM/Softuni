@@ -1,6 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\vegetables\vegetables\bin\Debug\vegetables.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\vegetables\vegetables\bin\Debug\vegetables.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\vegetables\vegetables\bin\Debug\vegetables.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\vegetables\vegetables\obj\Debug\vegetables.csprojResolveAssemblyReference.cache
-c:\users\aleksandar\documents\visual studio 2015\Projects\vegetables\vegetables\obj\Debug\vegetables.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\vegetables\vegetables\obj\Debug\vegetables.pdb

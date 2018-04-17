@@ -1,6 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\Rocket\bin\Debug\Rocket.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\Rocket\bin\Debug\Rocket.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\Rocket\bin\Debug\Rocket.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\Rocket\obj\Debug\Rocket.csprojResolveAssemblyReference.cache
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\Rocket\obj\Debug\Rocket.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\Rocket\obj\Debug\Rocket.pdb

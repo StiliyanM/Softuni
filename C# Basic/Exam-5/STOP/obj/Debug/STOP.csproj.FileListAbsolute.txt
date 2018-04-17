@@ -1,6 +1,0 @@
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-5\STOP\bin\Debug\STOP.exe.config
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-5\STOP\bin\Debug\STOP.exe
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-5\STOP\bin\Debug\STOP.pdb
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-5\STOP\obj\Debug\STOP.csprojResolveAssemblyReference.cache
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-5\STOP\obj\Debug\STOP.exe
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-5\STOP\obj\Debug\STOP.pdb

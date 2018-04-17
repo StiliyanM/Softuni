@@ -1,6 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\Distance\bin\Debug\Distance.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\Distance\bin\Debug\Distance.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\Distance\bin\Debug\Distance.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\Distance\obj\Debug\Distance.csprojResolveAssemblyReference.cache
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\Distance\obj\Debug\Distance.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 December 2016\Distance\obj\Debug\Distance.pdb

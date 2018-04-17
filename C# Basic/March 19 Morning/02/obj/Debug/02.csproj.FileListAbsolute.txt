@@ -1,5 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\March 19 Morning\02\bin\Debug\02.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\March 19 Morning\02\bin\Debug\02.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\March 19 Morning\02\bin\Debug\02.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\March 19 Morning\02\obj\Debug\02.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\March 19 Morning\02\obj\Debug\02.pdb

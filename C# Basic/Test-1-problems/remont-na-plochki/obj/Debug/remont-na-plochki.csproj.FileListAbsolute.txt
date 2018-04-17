@@ -1,6 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\remont-na-plochki\bin\Debug\remont-na-plochki.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\remont-na-plochki\bin\Debug\remont-na-plochki.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\remont-na-plochki\bin\Debug\remont-na-plochki.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\remont-na-plochki\obj\Debug\remont-na-plochki.csprojResolveAssemblyReference.cache
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\remont-na-plochki\obj\Debug\remont-na-plochki.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\remont-na-plochki\obj\Debug\remont-na-plochki.pdb

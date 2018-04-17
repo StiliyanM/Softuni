@@ -1,5 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\CarToGO\bin\Debug\CarToGO.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\CarToGO\bin\Debug\CarToGO.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\CarToGO\bin\Debug\CarToGO.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\CarToGO\obj\Debug\CarToGO.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\18 March 2017\CarToGO\obj\Debug\CarToGO.pdb

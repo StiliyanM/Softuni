@@ -4,3 +4,10 @@ c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Conditions\Bonu
 c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Conditions\Bonus-Score\obj\Debug\Bonus-Score.csprojResolveAssemblyReference.cache
 c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Conditions\Bonus-Score\obj\Debug\Bonus-Score.exe
 c:\users\aleksandar\documents\visual studio 2015\Projects\Simple Conditions\Bonus-Score\obj\Debug\Bonus-Score.pdb
+D:\Softuni\C# Basic\Simple Conditions\Bonus-Score\bin\Debug\Bonus-Score.exe.config
+D:\Softuni\C# Basic\Simple Conditions\Bonus-Score\bin\Debug\Bonus-Score.exe
+D:\Softuni\C# Basic\Simple Conditions\Bonus-Score\bin\Debug\Bonus-Score.pdb
+D:\Softuni\C# Basic\Simple Conditions\Bonus-Score\obj\Debug\Bonus-Score.csprojResolveAssemblyReference.cache
+D:\Softuni\C# Basic\Simple Conditions\Bonus-Score\obj\Debug\Bonus-Score.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Basic\Simple Conditions\Bonus-Score\obj\Debug\Bonus-Score.exe
+D:\Softuni\C# Basic\Simple Conditions\Bonus-Score\obj\Debug\Bonus-Score.pdb

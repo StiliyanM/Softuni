@@ -1,6 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Training-Lab\bin\Debug\Training-Lab.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Training-Lab\bin\Debug\Training-Lab.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Training-Lab\bin\Debug\Training-Lab.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Training-Lab\obj\Debug\Training-Lab.csprojResolveAssemblyReference.cache
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Training-Lab\obj\Debug\Training-Lab.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Training-Lab\obj\Debug\Training-Lab.pdb

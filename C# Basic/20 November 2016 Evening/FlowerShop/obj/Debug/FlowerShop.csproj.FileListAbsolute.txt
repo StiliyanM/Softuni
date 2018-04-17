@@ -1,5 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\FlowerShop\bin\Debug\FlowerShop.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\FlowerShop\bin\Debug\FlowerShop.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\FlowerShop\bin\Debug\FlowerShop.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\FlowerShop\obj\Debug\FlowerShop.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 November 2016 Evening\FlowerShop\obj\Debug\FlowerShop.pdb

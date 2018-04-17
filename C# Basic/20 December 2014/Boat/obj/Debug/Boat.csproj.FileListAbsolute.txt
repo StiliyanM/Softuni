@@ -1,6 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 December 2014\Boat\bin\Debug\Boat.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 December 2014\Boat\bin\Debug\Boat.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 December 2014\Boat\bin\Debug\Boat.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 December 2014\Boat\obj\Debug\Boat.csprojResolveAssemblyReference.cache
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 December 2014\Boat\obj\Debug\Boat.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\20 December 2014\Boat\obj\Debug\Boat.pdb

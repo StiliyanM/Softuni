@@ -10,7 +10,6 @@ public class Dough
     private string bakingTechnique;
     private double weight;
 
-
     public Dough()
     {
 

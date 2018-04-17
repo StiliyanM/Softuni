@@ -1,1 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\Transport-price\Transport-price\bin\Debug\Transport-price.exe.config

@@ -1,6 +1,0 @@
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Money\bin\Debug\Money.exe.config
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Money\bin\Debug\Money.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Money\bin\Debug\Money.pdb
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Money\obj\Debug\Money.exe
-c:\users\aleksandar\documents\visual studio 2015\Projects\Test-1-problems\Money\obj\Debug\Money.pdb

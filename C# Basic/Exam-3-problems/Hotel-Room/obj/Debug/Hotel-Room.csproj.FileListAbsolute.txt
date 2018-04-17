@@ -1,6 +1,0 @@
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Hotel-Room\bin\Debug\Hotel-Room.exe.config
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Hotel-Room\bin\Debug\Hotel-Room.exe
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Hotel-Room\bin\Debug\Hotel-Room.pdb
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Hotel-Room\obj\Debug\Hotel-Room.csprojResolveAssemblyReference.cache
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Hotel-Room\obj\Debug\Hotel-Room.exe
-C:\Users\Aleksandar\Documents\Visual Studio 2015\Projects\Exam-3-problems\Hotel-Room\obj\Debug\Hotel-Room.pdb
