@@ -1,24 +1,17 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
-namespace _1000_Days_After_Birth
-{
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             string birthDate = Console.ReadLine();
-            //  IFormatProvider provider = IFormatProvider.Equals()
-            DateTime date = DateTime.ParseExact(birthDate, "dd-MM-yyyy",CultureInfo.CurrentCulture);
-            date.AddDays(999);
-            date.ToString("dd-MM-yyyy");
-            Console.WriteLine(date);
-
-            
+            DateTime date = DateTime.ParseExact(birthDate, "dd-MM-yyyy",CultureInfo.InvariantCulture);
+            date = date.AddDays(999);
+            Console.WriteLine(date.ToString("dd-MM-yyyy",CultureInfo.InvariantCulture));
         }
     }
-}
