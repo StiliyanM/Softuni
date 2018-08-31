@@ -1,0 +1,46 @@
+﻿@model IEnumerable<HistoryModel>
+@{
+    ViewData["Title"] = "Status";
+}
+
+@{
+    if (Model == null || Model.Count() == 0)
+    {
+        <p>This movie has not been borrowed!</p>
+
+    }
+    else
+    {
+        ViewData["Title"] = Model?.First().Title + "History";
+
+        <h2 class="text-center"><span class="text-info">@Model.First().Title</span> Borrowing History</h2>
+
+        int counter = 1;
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Start Date</th>
+                    <th>End Date</th>
+                    <th>Borrower</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var movie in Model)
+                {
+                    var endDate = movie.EndDate == null ? "Indefinite" : movie.EndDate.Value.ToShortDateString();
+                    <tr>
+                        <td>@counter</td>
+                        <td>@(movie.StartDate.ToShortDateString())</td>
+                        <td>@(endDate)</td>
+                        <td>@movie.Borrower</td>
+                    </tr>
+
+                    counter++;
+                }
+            </tbody>
+        </table>
+
+    }
+}

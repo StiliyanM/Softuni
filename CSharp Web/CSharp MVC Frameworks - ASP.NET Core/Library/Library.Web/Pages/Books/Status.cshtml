@@ -1,0 +1,45 @@
+﻿@page
+@model Library.Web.Pages.Books.StatusModel
+
+@{
+    if (Model.BookHistory == null || Model.BookHistory.Count() == 0)
+    {
+        <p>This book has not been borrowed!</p>
+
+    }
+    else
+    {
+        ViewData["Title"] = Model?.BookHistory.First().Title + "History";
+
+        <h2 class="text-center"><span class="text-info">@Model.BookHistory.First().Title</span> Borrowing History</h2>
+
+        int counter = 1;
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Start Date</th>
+                    <th>End Date</th>
+                    <th>Borrower</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var book in Model?.BookHistory)
+                {
+                    var endDate = book.EndDate == null ? "Indefinite" : book.EndDate.Value.ToShortDateString();
+                    <tr>
+                        <td>@counter</td>
+                        <td>@(book.StartDate.ToShortDateString())</td>
+                        <td>@(endDate)</td>
+                        <td>@book.Borrower</td>
+                    </tr>
+
+                    counter++;
+                }
+            </tbody>
+        </table>
+
+    }
+}
+

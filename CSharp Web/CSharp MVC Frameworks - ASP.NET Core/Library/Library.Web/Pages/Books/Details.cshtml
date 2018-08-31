@@ -1,0 +1,30 @@
+﻿@page "{id}"
+@model Library.Web.Pages.Books.DetailsModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <img src="@Model.ImageUrl" alt="Book" class="img-fluid w-100">
+    </div>
+    <div class="col-md-9">
+        <h2>@Model.Title</h2>
+        <h5>by @Model.Author</h5>
+        <p>@Model.Description</p>
+        <p><strong>Status:</strong> @Model.Status</p>
+
+        <a asp-page="/Books/Status" asp-route-id="@Model.Id" class="btn btn-info float-left">Show History</a>
+
+        @{
+            if (Model.Status == "At Home")
+            {
+                <a asp-page="/Books/Borrow" asp-route-id="@Model.Id" class="btn btn-warning float-right">Borrow</a>
+            }
+            else
+            {
+                <a asp-page-handler="Return" class="btn btn-success float-right">Return</a>
+            }
+        }
+    </div>
+</div>

@@ -1,0 +1,42 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Library";
+}
+
+<h2>My Library</h2>
+<a href="Books/Add" class="btn btn-success">Add new book</a>
+
+<div>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>
+                    Title
+                </th>
+                <th>
+                    Author
+                </th>
+                <th>
+                    Status
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model.Books)
+            {
+                <tr>
+                    <td>
+                        <a asp-page="Books/Details" asp-route-id="@book.Id">@book.Title</a>  
+                    </td>
+                    <td>
+                        <a asp-page="Authors/Details" asp-route-id="@book.AuthorId">@book.Author</a>
+                    </td>
+                    <td>
+                        @book.Status
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

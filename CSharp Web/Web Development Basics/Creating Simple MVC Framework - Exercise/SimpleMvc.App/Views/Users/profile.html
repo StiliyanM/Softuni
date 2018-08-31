@@ -1,0 +1,15 @@
+﻿<a href="/home/index">Home</a>
+
+<h2>User: {{{username}}}</h2>
+<form method="post">
+    Title: <input type="text" name="Title" />
+    <br />
+    Content: <input type="text" name="Content" />
+    <input type="hidden" name="UserId" value="{{{userId}}}" />
+    <br />
+    <input type="submit" value="Add Note" />
+</form>
+
+<ul>
+    {{{notes}}}
+</ul>

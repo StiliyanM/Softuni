@@ -1,0 +1,29 @@
+﻿@model MovieDetailsModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <img src="@Model.ImageUrl" alt="Movie" class="img-fluid w-100">
+    </div>
+    <div class="col-md-9">
+        <h2>@Model.Title</h2>
+        <h5>by @Model.Director</h5>
+        <p>@Model.Description</p>
+        <p><strong>Status:</strong> @Model.Status</p>
+
+        <a asp-controller="Movies" asp-action="Status" asp-route-id="@Model.Id" class="btn btn-info float-left">Show History</a>
+
+        @{
+            if (Model.Status == "At Home")
+            {
+                <a asp-controller="Movies" asp-action="Borrow" asp-route-id="@Model.Id" class="btn btn-warning float-right">Borrow</a>
+            }
+            else
+            {
+                <a asp-action="Return" asp-route-id="@Model.Id" class="btn btn-success float-right">Return</a>
+            }
+        }
+    </div>
+</div>
