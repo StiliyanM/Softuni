@@ -1,3 +1,2 @@
-# My Cool Web Server
-
-Simple web server built from scratch as an exercise for [https://softuni.bg/trainings/1736/c-sharp-web-development-basics-september-2017](https://softuni.bg/trainings/1736/c-sharp-web-development-basics-september-2017). Enjoy! :)
+# Game Store
+A web aplication with Full CRUD for games with Admin access and a shopping cart functionality, using a handmade web server and MVC framework which is made to mimic ASP.NET Core.
